@@ -3,6 +3,18 @@ A simple Todo List application built with JavaFX to help you manage your tasks e
 
 ![image](https://github.com/dsai050898/JAVA-FX-APP/assets/58187234/cba49ea2-49d0-4304-b2a4-db29d4f0e9e1)
 
+![image](https://github.com/dsai050898/JAVA-FX-APP/assets/58187234/a2a92d27-9f48-42d1-9534-f647049a552a)
+
+![image](https://github.com/dsai050898/JAVA-FX-APP/assets/58187234/61ebad3c-c9e3-4d28-ab91-cf5d874f1c4e)
+**COMPLETED TASKS**
+![image](https://github.com/dsai050898/JAVA-FX-APP/assets/58187234/2647250a-3770-4171-bd28-e862024043f5)
+**SORT BY PRIORITY**
+![image](https://github.com/dsai050898/JAVA-FX-APP/assets/58187234/b368b45e-d61e-4afd-9d64-09aa2993d553)
+
+**SORT BY DATE**
+![image](https://github.com/dsai050898/JAVA-FX-APP/assets/58187234/7663fa70-74f7-402b-b08c-c3c3b06e72fc)
+
+
 **Features**                                                                                                                                                                                                                                
 Add, edit, and delete tasks
 Mark tasks as completed

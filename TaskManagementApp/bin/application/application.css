@@ -1,0 +1,82 @@
+/* Style for the root VBox */
+.root {
+    -fx-background-color: #f0f0f0;
+}
+
+/* Style for the task input TextField */
+.text-field {
+    -fx-prompt-text-fill: gray;
+    -fx-background-color: white;
+}
+
+/* Style for the combo box */
+.combo-box {
+    -fx-background-color: white;
+}
+
+/* Style for the date picker */
+.date-picker {
+    -fx-background-color: white;
+}
+
+/* Style for the Add Task button */
+.button {
+    -fx-background-color: #009688;
+    -fx-text-fill: white;
+}
+
+/* Style for the list views */
+.list-view {
+    -fx-background-color: white;
+}
+
+/* Style for the kebab buttons */
+.kebab-button {
+    -fx-background-color: transparent;
+    -fx-padding: 5 5 5 5;
+}
+
+/* Style for the sorting buttons */
+.sorting-button {
+    -fx-background-color: #f0f0f0;
+    -fx-border-color: #d0d0d0;
+    -fx-padding: 5 10 5 10;
+    -fx-text-fill: #555555;
+}
+
+/* Style for the completed tasks box */
+.completed-tasks-box {
+    -fx-background-color: #e0e0e0;
+    -fx-padding: 10;
+}
+
+/* Style for the task bar */
+.task-bar {
+    -fx-background-color: white;
+    -fx-border-color: #d0d0d0;
+    -fx-padding: 10;
+}
+
+/* Style for the task list cells */
+.task-list-cell {
+    -fx-background-color: white;
+    -fx-padding: 5;
+    -fx-border-color: #d0d0d0;
+}
+
+/* Style for the task labels */
+.task-label {
+    -fx-font-weight: bold;
+}
+
+/* Style for the button box */
+.button-box {
+    -fx-spacing: 5;
+}
+
+/* Style for the task bar */
+.task-bar {
+    -fx-background-color: white;
+    -fx-border-color: #d0d0d0;
+    -fx-padding: 10;
+}
